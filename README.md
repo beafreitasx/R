@@ -4,7 +4,7 @@
 <hr/> 
 
 ## Objetivo
-Publicar todo conteúdo sobre Linguagem R, em diferents contextos.
+Publicar todo conteúdo sobre Linguagem R, em diferentes contextos.
 
 ## Ramos
 - R para Análise de Dados
