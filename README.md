@@ -1,5 +1,5 @@
 # R
- Repositório com Scripts para iniciantes em R
+ Repositório com Scripts para iniciantes de Programação R utilizando 
 
 <hr/> 
 
