@@ -1,5 +1,5 @@
 # R
- Repositório com Scripts para iniciantes de Programação R utilizando 
+ Repositório com Scripts para iniciantes de Programação em R utilizando o software livre RStudio. 
 
 <hr/> 
 
